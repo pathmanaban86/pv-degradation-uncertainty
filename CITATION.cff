@@ -6,8 +6,8 @@ license: MIT
 version: 1.0.0
 date-released: 2026-10-17
 authors:
-  - family-names: "SURNAME"        # TODO: replace with author names
-    given-names: "GIVEN NAME"
+  - family-names: "Pugazhendi"        
+    given-names: "Pathmanaban"
 repository-code: "https://github.com/USER/pv-degradation-uncertainty"   # TODO
 references:
   - type: dataset
