@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the dataset."
+title: "pv-degradation-uncertainty: code for 'Uncertainty issues in the assessment of photovoltaic degradation rates from longitudinal indoor flash measurements'"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-10-17
+authors:
+  - family-names: "SURNAME"        # TODO: replace with author names
+    given-names: "GIVEN NAME"
+repository-code: "https://github.com/USER/pv-degradation-uncertainty"   # TODO
+references:
+  - type: dataset
+    title: "PV-IV-EL: photovoltaic module I-V curves and electroluminescence images (OEDI submission 8378)"
+    authors:
+      - name: "Sandia National Laboratories"
+    url: "https://data.openei.org/submissions/8378"

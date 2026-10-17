@@ -1,0 +1,11 @@
+# Versions used to produce the published results (Python 3.11)
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+matplotlib>=3.9
+pvlib>=0.11        # fit_sandia_simple for the single-diode check; tested with 0.16
+statsmodels>=0.14
+opencv-python-headless>=4.9
+tifffile>=2024.1
+Pillow>=10.0
+openpyxl>=3.1

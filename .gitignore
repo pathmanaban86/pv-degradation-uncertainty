@@ -1,0 +1,12 @@
+# raw dataset (download from OEDI, see data/README.md)
+data/*
+!data/README.md
+*.zip
+AnonDB.csv
+# generated outputs
+paper_out/
+el_out/
+**/__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
